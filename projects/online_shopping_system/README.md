@@ -1,11 +1,11 @@
-Online Shopping System
-Overview
+**Online Shopping System**
+`Overview`
 
 A command-line Online Shopping System built with Python to demonstrate the practical application of Object-Oriented Programming (OOP) principles.
 
 The application allows users to browse products, add them to a shopping cart, calculate the total price, choose a payment method, and receive a purchase confirmation.
 
-Features
+**Features**
 Product management with price validation.
 Encapsulated product prices using private attributes and properties.
 Shopping cart management (add, remove, and calculate total).
@@ -31,7 +31,7 @@ online_shopping_system/
 ├── notifications.py
 └── README.md
 
-Technologies
+**Technologies**
 Python 3
 Object-Oriented Programming
 Abstract Base Classes (ABC)
@@ -46,9 +46,9 @@ Add products to the shopping cart through the application.
 Select a payment method to complete the simulated purchase.
 Learning Objectives
 
-This project was developed to practice designing classes, implementing OOP principles, organizing Python code into modules, and building a small application using reusable components.
+*This project was developed to practice designing classes, implementing OOP principles, organizing Python code into modules, and building a small application using reusable components.*
 
-Future Improvements
+**Future Improvements**
 Add customer accounts.
 Add product quantities and stock management.
 Implement order history.
