@@ -341,7 +341,7 @@ Some potential improvements and extensions for this repository include:
 
 **Rayan Mouhib**
 
-Aspiring Python Developer | Learning Object-Oriented Programming
+Aspiring Full-Stack Developer | Learning Object-Oriented Programming
 
 GitHub: [@ryanmohib](https://github.com/ryanmohib)
 
