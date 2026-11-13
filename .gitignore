@@ -1,0 +1,21 @@
+# tells Git which files and folders it should ignore when tracking changes.
+
+# Python cache files
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Environment variables and secrets
+.env
+.env.*
+
+# IDE and editor files
+.vscode/
+
+# Operating system files
+.DS_Store
+Thumbs.db
